@@ -40,7 +40,7 @@ namespace AlphabetCodingChallengeApp
             
             // create hashset of characters we see in the input
             HashSet<char> chars = new HashSet<char>();
-            foreach (char c in s)
+            foreach (char c in lower)
                 if (char.IsLetter(c) && !chars.Contains(c))
                     chars.Add(c);
 
