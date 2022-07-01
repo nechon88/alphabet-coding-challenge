@@ -1,4 +1,4 @@
-# Alphabet Coding Challnge
+# Alphabet Coding Challenge
 Create an application that satisfies the following requirements:
 
 1. Must be created using C#
